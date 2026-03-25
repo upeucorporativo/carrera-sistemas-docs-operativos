@@ -213,6 +213,28 @@ Todo PR debe indicar:
 - cambios principales
 - artefacto de prueba
 - impacto en base de datos si aplica
+- estrategia de merge esperada: `Squash and merge`
+
+Plantilla breve de descripción de PR (copiar/pegar):
+
+```text
+## Objetivo del cambio
+<describir objetivo>
+
+## Cambios principales
+- <cambio 1>
+- <cambio 2>
+
+## Artefacto de prueba
+- <captura, log o evidencia>
+
+## Impacto en base de datos
+- [ ] No aplica
+- [ ] Sí aplica: <describir migración/impacto>
+
+## Estrategia de merge esperada
+- Squash and merge
+```
 
 ## Merge recomendado
 
