@@ -81,12 +81,51 @@ git push origin vs01-base-catalogo-final
 ## Flujo mínimo de trabajo
 
 1. Actualizar `main`.
+	- Cuando la tarea es nueva.
+	- Si es continuación de trabajo en la misma rama personal, continuar en esa rama.
 2. Crear rama propia.
 3. Implementar cambio.
 4. Ejecutar pruebas.
 5. Hacer commit claro.
 6. Subir rama.
 7. Abrir PR hacia `main`.
+
+Comandos Git (flujo general):
+
+```bash
+# 1) Tarea nueva: actualizar main
+git checkout main
+git pull origin main
+
+# 2) Crear rama propia
+git checkout -b tarea/<nombre-alumno>-ms4-<tema>
+
+# 3) Implementar cambio
+# (editar archivos)
+
+# 4) Ejecutar pruebas
+mvn test
+
+# 5) Commit claro
+git add .
+git commit -m "feat(ms4): <descripcion-corta>"
+
+# 6) Subir rama
+git push -u origin tarea/<nombre-alumno>-ms4-<tema>
+
+# 7) Abrir PR hacia main (desde GitHub)
+```
+
+Comandos Git (si continúas en tu misma rama):
+
+```bash
+git checkout tarea/<nombre-alumno>-ms4-<tema>
+git pull origin tarea/<nombre-alumno>-ms4-<tema>
+mvn test
+git add .
+git commit -m "feat(ms4): <descripcion-corta>"
+git push origin tarea/<nombre-alumno>-ms4-<tema>
+```
 
 ## Regla para microservicios4
 
