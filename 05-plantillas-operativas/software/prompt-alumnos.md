@@ -17,7 +17,7 @@ Flujo de ramas y PR:
 Plantilla rápida (copiar/pegar):
 
 ```text
-Rama de trabajo: tarea/<nombre-alumno>-ms4-<nombre-microservicio>
+Rama de trabajo: tarea/<autor>-ms4-<nombre-microservicio>
 Rama origen plantilla: 01-plantilla-ms-base
 Rama destino PR: main
 Título PR sugerido: feat(ms4): base de <nombre-microservicio> desde 01-plantilla-ms-base

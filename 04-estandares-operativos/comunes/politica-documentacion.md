@@ -18,5 +18,5 @@ Mantener una estructura uniforme y sostenible para la documentación operativa d
 ## Revisión
 
 - Los cambios deben entrar por PR.
-- El autor debe explicar qué cambió y por qué.
+- La persona autora debe explicar qué cambió y por qué.
 - Si un cambio impacta a varios repositorios académicos o técnicos, debe actualizarse la referencia correspondiente.
