@@ -10,7 +10,7 @@ Orientar al estudiante sobre qué hacer en cada proceso (`PI`, `PS`, `EPE`) de f
 
 1. Leer esta guía.
 2. Elegir el proceso que corresponde (`PS`, `PI` o `EPE`).
-3. Preparar entregables `E1–E5` con [Checklist de entregables](checklist-entregables-e1-e5.md).
+3. Preparar artefactos `E1–E4` con [Checklist de entregables](checklist-entregables-e1-e5.md).
 4. Revisar [Rúbrica resumen EPE](rubrica-resumen-epe.md) antes de sustentar.
 
 ## ¿Cuándo usar cada guía?
@@ -40,7 +40,12 @@ Orientar al estudiante sobre qué hacer en cada proceso (`PI`, `PS`, `EPE`) de f
 - `E2`: diseño de solución (arquitectura, modelo, decisiones).
 - `E3`: implementación y avance funcional.
 - `E4`: validación/pruebas y mejoras.
-- `E5`: integración final, resultados e impacto.
+- `E5`: evaluación final integradora (sustentación de `E1–E4`, resultados e impacto).
+
+## Regla unificada CDIO
+
+- `E1–E4` = artefactos de ingeniería.
+- `E5` = evaluación final integradora (no un artefacto adicional).
 
 ## Criterio mínimo de calidad
 

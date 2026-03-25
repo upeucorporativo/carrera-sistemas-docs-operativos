@@ -6,15 +6,16 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 
 ## Empieza aquí
 
-1. [Guía operativa PI/PS/EPE](../02-procesos-operativos-transversales/guia-pi-ps-epe.md)
-2. [Guía PI](../02-procesos-operativos-transversales/proyectos-integradores-pi/README.md)
-3. [Guía PS](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
-4. [Guía EPE](../02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md)
-5. [Plantillas operativas](../05-plantillas-operativas/software/prompt-alumnos.md)
-6. [Estándares de trabajo (software)](../04-estandares-operativos/software/estandar-codificacion.md)
-7. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
-8. [Checklist E1–E5](../02-procesos-operativos-transversales/checklist-entregables-e1-e5.md)
-9. [Rúbrica resumen EPE](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
+1. [Marco unificado CDIO (E1–E4 + Evaluación Final)](../02-procesos-operativos-transversales/marco-unificado-cdio-entregables-rubricas-plantillas.md)
+2. [Guía operativa PI/PS/EPE](../02-procesos-operativos-transversales/guia-pi-ps-epe.md)
+3. [Guía PI](../02-procesos-operativos-transversales/proyectos-integradores-pi/README.md)
+4. [Guía PS](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
+5. [Guía EPE](../02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md)
+6. [Plantillas operativas](../05-plantillas-operativas/software/prompt-alumnos.md)
+7. [Estándares de trabajo (software)](../04-estandares-operativos/software/estandar-codificacion.md)
+8. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
+9. [Checklist E1–E5](../02-procesos-operativos-transversales/checklist-entregables-e1-e5.md)
+10. [Rúbrica resumen EPE](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
 
 ## Acceso por línea (rápido)
 

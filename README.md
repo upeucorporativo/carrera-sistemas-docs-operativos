@@ -16,6 +16,7 @@ En `carrera-sistemas-docs-operativos` se publica contenido práctico y de uso di
 ## Ruta rápida para alumnos
 
 - [Índice único para alumnos](00-arquitectura-documentos/indice-alumnos.md)
+- [Marco unificado CDIO (E1–E4 + Evaluación Final)](02-procesos-operativos-transversales/marco-unificado-cdio-entregables-rubricas-plantillas.md)
 - [Guía operativa PI/PS/EPE](02-procesos-operativos-transversales/guia-pi-ps-epe.md)
 - [Guía PI](02-procesos-operativos-transversales/proyectos-integradores-pi/README.md)
 - [Guía PS](02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
@@ -53,6 +54,7 @@ En `carrera-sistemas-docs-operativos` se publica contenido práctico y de uso di
 
 ### 02. Procesos operativos transversales
 
+- [Marco unificado CDIO (E1–E4 + Evaluación Final)](02-procesos-operativos-transversales/marco-unificado-cdio-entregables-rubricas-plantillas.md)
 - [Proyectos sello (PS)](02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
 - [Proyectos integradores (PI)](02-procesos-operativos-transversales/proyectos-integradores-pi/README.md)
 - [Evaluación perfil de egreso (EPE)](02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md)
