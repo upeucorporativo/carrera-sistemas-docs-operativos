@@ -44,6 +44,40 @@ Ejemplos:
 - `sesion/01-base-catalogo`
 - `sesion/02-pruebas-y-pr`
 
+## Tags de cierre por sesión
+
+Formato recomendado:
+
+```text
+vs<numero>-<tema>-final
+```
+
+Ejemplos:
+
+- `vs01-base-catalogo-final`
+- `vs02-pruebas-y-pr-final`
+
+Cuándo crear el tag:
+
+- Después de aprobar y hacer merge del PR a `main`.
+- Con pruebas mínimas ejecutadas correctamente.
+- Cuando el entregable de sesión esté listo para cierre/publicación.
+
+Flujo mínimo recomendado:
+
+1. Validar que `main` tenga el merge final de la sesión.
+2. Crear tag con formato `vs<numero>-<tema>-final`.
+3. Publicar el tag en remoto.
+
+Comandos Git (ejemplo):
+
+```bash
+git checkout main
+git pull origin main
+git tag vs01-base-catalogo-final
+git push origin vs01-base-catalogo-final
+```
+
 ## Flujo mínimo de trabajo
 
 1. Actualizar `main`.
