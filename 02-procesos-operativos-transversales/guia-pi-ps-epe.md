@@ -17,20 +17,20 @@ Orientar al estudiante sobre qué hacer en cada proceso (`PI`, `PS`, `EPE`) de f
 
 - `PS`: cuando el trabajo corresponde a un curso específico.
 - `PI`: cuando se integran varios cursos del ciclo en una sola solución.
-- `EPE`: cuando se evalúa el logro del perfil de egreso con evidencias integradas.
+- `EPE`: cuando se evalúa el logro del perfil de egreso con artefactos integrados.
 
 ## Qué entregar en cada proceso
 
 - `PS`:
-	- evidencia de competencia del curso
+	- artefacto de competencia del curso
 	- avance técnico del ciclo
 	- entregables parciales según planificación docente
 - `PI`:
-	- integración de evidencias de varios cursos
+	- integración de artefactos de varios cursos
 	- solución funcional del ciclo
 	- sustentación del proceso `CDIO` (Conceive, Design, Implement, Operate)
 - `EPE`:
-	- integración final de evidencias (no es un proyecto totalmente nuevo)
+	- integración final de artefactos (no es un proyecto totalmente nuevo)
 	- entregables `E1–E5` completos
 	- sustentación técnica y funcional ante evaluación interna/externa
 
@@ -44,10 +44,10 @@ Orientar al estudiante sobre qué hacer en cada proceso (`PI`, `PS`, `EPE`) de f
 
 ## Criterio mínimo de calidad
 
-- Cada entregable debe tener evidencia verificable.
+- Cada entregable debe tener artefacto verificable.
 - Debe existir coherencia entre problema → solución → resultados.
 - Todo cambio importante debe quedar documentado.
-- La sustentación debe conectar evidencia con competencias logradas.
+- La sustentación debe conectar artefacto con competencias logradas.
 
 ## Flujo mínimo recomendado
 
@@ -55,7 +55,7 @@ Orientar al estudiante sobre qué hacer en cada proceso (`PI`, `PS`, `EPE`) de f
 2. Revisar entregables requeridos del proceso.
 3. Usar plantillas oficiales operativas del repositorio.
 4. Ejecutar checklist antes de entregar.
-5. Presentar evidencia y sustentar resultados.
+5. Presentar artefacto y sustentar resultados.
 
 ## Documentos de apoyo
 

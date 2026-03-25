@@ -14,23 +14,23 @@ Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sust
 
 ## Criterios clave (resumen)
 
-- **Integración de evidencias:** conecta correctamente resultados de `PS` y `PI`.
+- **Integración de artefactos:** conecta correctamente resultados de `PS` y `PI`.
 - **Calidad técnica:** solución consistente, verificable y bien documentada.
 - **Sustentación:** explica decisiones y resultados con claridad.
 - **Impacto/valor:** demuestra aporte real al problema planteado.
 
 ## Niveles de logro (N1–N3)
 
-- **N1 (básico):** evidencia parcial, con baja integración o justificación incompleta.
-- **N2 (intermedio):** evidencia suficiente, integración aceptable y sustentación clara.
-- **N3 (esperado de egreso):** evidencia completa, integrada, trazable y bien sustentada.
+- **N1 (básico):** artefacto parcial, con baja integración o justificación incompleta.
+- **N2 (intermedio):** artefacto suficiente, integración aceptable y sustentación clara.
+- **N3 (esperado de egreso):** artefacto completo, integrado, trazable y bien sustentado.
 
 ## Pauta rápida por criterio
 
-- **Integración de evidencias**
-	- N1: evidencias sueltas.
-	- N2: evidencias conectadas parcialmente.
-	- N3: evidencias integradas de extremo a extremo.
+- **Integración de artefactos**
+	- N1: artefactos sueltos.
+	- N2: artefactos conectados parcialmente.
+	- N3: artefactos integrados de extremo a extremo.
 - **Calidad técnica**
 	- N1: solución inestable o poco documentada.
 	- N2: solución funcional con documentación suficiente.
@@ -46,12 +46,12 @@ Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sust
 
 ## Escala sugerida de desempeño
 
-- **Logro esperado:** evidencia completa y coherente.
-- **En proceso:** evidencia parcial o con vacíos justificables.
-- **Por reforzar:** evidencia insuficiente o no alineada al objetivo.
+- **Logro esperado:** artefacto completo y coherente.
+- **En proceso:** artefacto parcial o con vacíos justificables.
+- **Por reforzar:** artefacto insuficiente o no alineado al objetivo.
 
 ## Recomendación previa a jurado
 
 - Ejecutar [Checklist E1–E5](checklist-entregables-e1-e5.md).
-- Preparar una narrativa única: problema → solución → evidencia → resultado.
-- Validar que cada evidencia tenga respaldo (documento, código, demo o registro).
+- Preparar una narrativa única: problema → solución → artefacto → resultado.
+- Validar que cada artefacto tenga respaldo (documento, código, demo o registro).

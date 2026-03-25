@@ -8,7 +8,7 @@ Marcar cada punto antes de enviar un entregable.
 
 ## Reglas rápidas
 
-- No entregar sin evidencia (documento, código, demo o registro).
+- No entregar sin artefacto (documento, código, demo o registro).
 - No entregar con secciones vacías en plantilla.
 - No cambiar el alcance sin registrar el motivo.
 
@@ -18,12 +18,12 @@ Marcar cada punto antes de enviar un entregable.
 - [ ] El alcance está delimitado y validado.
 - [ ] La solución propuesta está alineada al brief.
 - [ ] Se usan las plantillas operativas vigentes.
-- [ ] El entregable incluye evidencias verificables.
+- [ ] El entregable incluye artefactos verificables.
 - [ ] Se documentan decisiones técnicas clave.
 - [ ] El repositorio/código está actualizado.
 - [ ] La presentación o demo está preparada.
 - [ ] El entregable está alineado a etapa `CDIO` correspondiente.
-- [ ] El equipo conoce qué evidencias sustentará oralmente.
+- [ ] El equipo conoce qué artefactos sustentará oralmente.
 
 ## Validación por entregable
 
@@ -41,9 +41,9 @@ Marcar cada punto antes de enviar un entregable.
 
 ### E3
 - [ ] Implementación funcional base.
-- [ ] Evidencias de avance consistentes.
+- [ ] Artefactos de avance consistentes.
 - [ ] Repositorio con estructura ordenada.
-- [ ] Evidencias de pruebas iniciales.
+- [ ] Artefactos de pruebas iniciales.
 
 ### E4
 - [ ] Validaciones/pruebas ejecutadas.
@@ -55,5 +55,5 @@ Marcar cada punto antes de enviar un entregable.
 - [ ] Integración final completa.
 - [ ] Sustentación técnica preparada.
 - [ ] Lecciones aprendidas registradas.
-- [ ] Resultado/impacto evidenciado.
+- [ ] Resultado/impacto artefactodo.
 - [ ] Material final listo para jurado/docente.

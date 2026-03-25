@@ -61,7 +61,7 @@ Todo PR debe indicar:
 
 - objetivo del cambio
 - cambios principales
-- evidencia de prueba
+- artefacto de prueba
 - impacto en base de datos si aplica
 
 ## Merge recomendado

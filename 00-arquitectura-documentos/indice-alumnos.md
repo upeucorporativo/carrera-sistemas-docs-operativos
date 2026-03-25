@@ -8,13 +8,33 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 
 1. [Guía operativa PI/PS/EPE](../02-procesos-operativos-transversales/guia-pi-ps-epe.md)
 2. [Guía PI](../02-procesos-operativos-transversales/proyectos-integradores-pi/README.md)
-2. [Guía PS](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
-3. [Guía EPE](../02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md)
-4. [Plantillas operativas](../05-plantillas-operativas/software/prompt-alumnos.md)
-5. [Estándares de trabajo (software)](../04-estandares-operativos/software/estandar-codificacion.md)
-6. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
-7. [Checklist E1–E5](../02-procesos-operativos-transversales/checklist-entregables-e1-e5.md)
-8. [Rúbrica resumen EPE](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
+3. [Guía PS](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
+4. [Guía EPE](../02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md)
+5. [Plantillas operativas](../05-plantillas-operativas/software/prompt-alumnos.md)
+6. [Estándares de trabajo (software)](../04-estandares-operativos/software/estandar-codificacion.md)
+7. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
+8. [Checklist E1–E5](../02-procesos-operativos-transversales/checklist-entregables-e1-e5.md)
+9. [Rúbrica resumen EPE](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
+
+## Acceso por línea (rápido)
+
+### Infraestructura
+
+- [Guía PI / PS / EPE](../03-lineas-de-la-carrera/infraestructura/guia-pi-ps-epe.md)
+- [Checklist E1–E5](../03-lineas-de-la-carrera/infraestructura/checklist-entregables-e1-e5.md)
+- [Rúbrica resumen EPE](../03-lineas-de-la-carrera/infraestructura/rubrica-resumen-epe.md)
+
+### Gestión
+
+- [Guía PI / PS / EPE](../03-lineas-de-la-carrera/gestion/guia-pi-ps-epe.md)
+- [Checklist E1–E5](../03-lineas-de-la-carrera/gestion/checklist-entregables-e1-e5.md)
+- [Rúbrica resumen EPE](../03-lineas-de-la-carrera/gestion/rubrica-resumen-epe.md)
+
+### Ciencia de Datos e IA
+
+- [Guía PI / PS / EPE](../03-lineas-de-la-carrera/ciencia-datos-ia/guia-pi-ps-epe.md)
+- [Checklist E1–E5](../03-lineas-de-la-carrera/ciencia-datos-ia/checklist-entregables-e1-e5.md)
+- [Rúbrica resumen EPE](../03-lineas-de-la-carrera/ciencia-datos-ia/rubrica-resumen-epe.md)
 
 ## Regla simple para no confundirse
 

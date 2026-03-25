@@ -9,4 +9,4 @@ Pendiente de completar con:
 - guía general
 - flujo operativo
 - hitos por ciclo
-- plantillas y evidencias
+- plantillas y artefactos

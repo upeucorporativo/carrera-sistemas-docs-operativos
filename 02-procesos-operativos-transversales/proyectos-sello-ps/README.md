@@ -9,4 +9,4 @@ Pendiente de completar con:
 - guía general
 - flujo operativo
 - cronograma tipo
-- plantillas y evidencias
+- plantillas y artefactos
