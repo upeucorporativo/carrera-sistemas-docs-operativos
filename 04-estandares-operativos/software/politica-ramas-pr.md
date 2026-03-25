@@ -19,7 +19,9 @@ Establecer una forma simple y consistente de trabajar cambios en repositorios de
 
 ## Formato de ramas de trabajo (común)
 
-Formato recomendado:
+### Ramas de trabajo (alumnos)
+
+Formato:
 
 ```text
 tarea/<autor>-<tema>
@@ -36,6 +38,20 @@ Ejemplos:
 - `tarea/ana-perez-crud-productos`
 - `tarea/luis-quiroz-validacion-categorias`
 - `tarea/ana-perez-ms4-ms-catalogo`
+
+### Ramas de sesión (docentes)
+
+Formato:
+
+```text
+sesion/<numero>-<tema>
+```
+
+Ejemplo:
+
+```bash
+git checkout -b sesion/01-arquitectura-base-ms
+```
 
 ## Flujo mínimo de trabajo
 
