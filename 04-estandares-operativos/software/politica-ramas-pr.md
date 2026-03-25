@@ -19,10 +19,17 @@ Formato recomendado:
 tarea/<nombre-alumno>-<tema>
 ```
 
+Para trabajos de `microservicios4`, formato sugerido:
+
+```text
+tarea/<nombre-alumno>-ms4-<tema>
+```
+
 Ejemplos:
 
 - `tarea/ana-perez-crud-productos`
 - `tarea/luis-quiroz-validacion-categorias`
+- `tarea/ana-perez-ms4-ms-catalogo`
 
 ## Ramas para docentes o responsables de sesión
 
@@ -46,6 +53,30 @@ Ejemplos:
 5. Hacer commit claro.
 6. Subir rama.
 7. Abrir PR hacia `main`.
+
+## Regla para microservicios4
+
+- El trabajo se realiza en rama propia (según estándar de nombres).
+- La integración se hace por PR hacia la raíz `main`.
+
+### Plantillas listas para usar (microservicios4)
+
+Rama de trabajo:
+
+```text
+tarea/<nombre-alumno>-ms4-<nombre-microservicio>
+```
+
+Ejemplos:
+
+- `tarea/juan-perez-ms4-ms-catalogo`
+- `tarea/maria-lopez-ms4-ms-clientes`
+
+Título sugerido de PR:
+
+```text
+feat(ms4): base de <nombre-microservicio> desde 01-plantilla-ms-base
+```
 
 ## Mensajes de commit
 
