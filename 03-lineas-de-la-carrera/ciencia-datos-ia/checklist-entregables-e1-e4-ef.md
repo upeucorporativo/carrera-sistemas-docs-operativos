@@ -1,4 +1,4 @@
-# Checklist E1–E5 — Línea Ciencia de Datos e IA
+# Checklist Artefactos E1-E4 + EF — Línea Ciencia de Datos e IA
 
 [← Volver al índice de alumnos](../../00-arquitectura-documentos/indice-alumnos.md)
 
@@ -28,7 +28,7 @@
 - [ ] Evaluación con métricas ejecutada.
 - [ ] Ajustes y comparación de resultados documentados.
 
-### E5
+### EF
 - [ ] Integración final y conclusiones completas.
 - [ ] Interpretación de resultados y valor de negocio.
 - [ ] Material final listo para sustentación.

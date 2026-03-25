@@ -1,14 +1,21 @@
-# Rúbrica Resumen EPE
+# Rúbrica EPE por niveles (N1-N3)
 
 [← Volver al índice de alumnos](../00-arquitectura-documentos/indice-alumnos.md)
 
 ## Propósito
 
-Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sustentación.
+Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sustentación final a partir de los artefactos generados en la evaluación progresiva.
+
+## Relación con la evaluación progresiva
+
+- La evaluación progresiva valida la calidad de los artefactos `E1-E4`.
+- La evaluación EPE/EF integra y sustenta esos artefactos como cierre del proceso.
+- En progresiva, la rúbrica aplicada depende del nivel alcanzado (`N1`, `N2` o `N3`).
+- En EPE/EF, la rúbrica aplicada es de `N3` para todos los artefactos evaluados.
 
 ## Cómo usar esta rúbrica
 
-1. Revisar cada criterio antes del cierre de `E5`.
+1. Revisar cada criterio antes del cierre de `EF`.
 2. Autoevaluarse en nivel `N1`, `N2` o `N3`.
 3. Corregir brechas antes de la sustentación final.
 
@@ -19,7 +26,7 @@ Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sust
 - **Sustentación:** explica decisiones y resultados con claridad.
 - **Impacto/valor:** demuestra aporte real al problema planteado.
 
-## Niveles de logro (N1–N3)
+## Niveles de logro (N1-N3)
 
 - **N1 (básico):** artefacto parcial, con baja integración o justificación incompleta.
 - **N2 (intermedio):** artefacto suficiente, integración aceptable y sustentación clara.
@@ -52,6 +59,6 @@ Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sust
 
 ## Recomendación previa a jurado
 
-- Ejecutar [Checklist E1–E5](checklist-entregables-e1-e5.md).
+- Ejecutar [Checklist Artefactos E1-E4 + EF](checklist-entregables-e1-e4-ef.md).
 - Preparar una narrativa única: problema → solución → artefacto → resultado.
 - Validar que cada artefacto tenga respaldo (documento, código, demo o registro).

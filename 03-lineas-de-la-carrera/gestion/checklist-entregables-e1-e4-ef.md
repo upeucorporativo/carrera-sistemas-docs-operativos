@@ -1,4 +1,4 @@
-# Checklist E1–E5 — Línea Gestión
+# Checklist Artefactos E1-E4 + EF — Línea Gestión
 
 [← Volver al índice de alumnos](../../00-arquitectura-documentos/indice-alumnos.md)
 
@@ -28,7 +28,7 @@
 - [ ] Evaluación de resultados realizada.
 - [ ] Oportunidades de mejora registradas.
 
-### E5
+### EF
 - [ ] Integración final de resultados.
 - [ ] Sustentación de valor e impacto.
 - [ ] Lecciones aprendidas consolidadas.

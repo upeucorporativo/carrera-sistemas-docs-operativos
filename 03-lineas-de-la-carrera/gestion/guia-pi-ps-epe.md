@@ -9,9 +9,9 @@ Orientar al estudiante de Gestión para desarrollar `PS`, `PI` y `EPE` con foco 
 ## Ruta rápida sugerida
 
 1. Definir problema de gestión y alcance.
-2. Estructurar entregables `E1–E5`.
-3. Validar con [Checklist E1–E5](checklist-entregables-e1-e5.md).
-4. Revisar [Rúbrica resumen EPE](rubrica-resumen-epe.md).
+2. Estructurar entregables `E1-E4 + EF`.
+3. Validar con [Checklist Artefactos E1-E4 + EF](checklist-entregables-e1-e4-ef.md).
+4. Revisar [Rúbrica EPE por niveles (N1-N3)](rubrica-resumen-epe.md).
 
 ## ¿Cuándo usar cada proceso?
 
@@ -19,13 +19,13 @@ Orientar al estudiante de Gestión para desarrollar `PS`, `PI` y `EPE` con foco 
 - `PI`: integración de competencias de varios cursos en una propuesta única.
 - `EPE`: integración final de artefactos para demostrar logro del perfil.
 
-## Entregables E1–E5 (enfoque gestión)
+## Entregables E1-E4 + EF (enfoque gestión)
 
 - `E1`: problema organizacional, objetivo y alcance.
 - `E2`: diseño de solución de gestión (proceso, modelo, plan).
 - `E3`: implementación/piloto y seguimiento.
 - `E4`: evaluación de resultados y mejora.
-- `E5`: integración final, impacto y sostenibilidad.
+- `EF`: integración final, impacto y sostenibilidad.
 
 ## Criterio mínimo de calidad
 

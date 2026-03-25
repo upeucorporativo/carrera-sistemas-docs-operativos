@@ -14,5 +14,5 @@ Aquí se documentarán:
 Documentos rápidos de la línea:
 
 - [Guía PI / PS / EPE](guia-pi-ps-epe.md)
-- [Checklist E1–E5](checklist-entregables-e1-e5.md)
-- [Rúbrica resumen EPE](rubrica-resumen-epe.md)
+- [Checklist Artefactos E1-E4 + EF](checklist-entregables-e1-e4-ef.md)
+- [Rúbrica EPE por niveles (N1-N3)](rubrica-resumen-epe.md)

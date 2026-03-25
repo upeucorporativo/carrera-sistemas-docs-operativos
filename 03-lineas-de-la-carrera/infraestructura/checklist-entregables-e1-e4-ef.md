@@ -1,4 +1,4 @@
-# Checklist E1–E5 — Línea Infraestructura
+# Checklist Artefactos E1-E4 + EF — Línea Infraestructura
 
 [← Volver al índice de alumnos](../../00-arquitectura-documentos/indice-alumnos.md)
 
@@ -28,7 +28,7 @@
 - [ ] Pruebas de funcionamiento ejecutadas.
 - [ ] Hallazgos y correcciones documentados.
 
-### E5
+### EF
 - [ ] Integración y operación final demostrable.
 - [ ] Sustentación técnica preparada.
 - [ ] Lecciones aprendidas registradas.

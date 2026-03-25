@@ -1,10 +1,10 @@
-# Checklist Entregables E1–E5
+# Checklist Artefactos E1-E4 + EF
 
 [← Volver al índice de alumnos](../00-arquitectura-documentos/indice-alumnos.md)
 
 ## Uso
 
-Marcar cada punto antes de enviar un entregable.
+Marcar cada punto durante la evaluación progresiva (`PS/PI`) y antes de la evaluación final (`EPE/EF`).
 
 ## Reglas rápidas
 
@@ -51,9 +51,9 @@ Marcar cada punto antes de enviar un entregable.
 - [ ] Hallazgos y correcciones trazables.
 - [ ] Riesgos abiertos registrados.
 
-### E5
+### EF
 - [ ] Integración final completa.
 - [ ] Sustentación técnica preparada.
 - [ ] Lecciones aprendidas registradas.
-- [ ] Resultado/impacto artefactodo.
+- [ ] Resultado/impacto demostrado.
 - [ ] Material final listo para jurado/docente.

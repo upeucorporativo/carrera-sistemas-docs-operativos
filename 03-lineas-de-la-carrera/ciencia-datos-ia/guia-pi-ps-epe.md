@@ -9,9 +9,9 @@ Orientar al estudiante de Ciencia de Datos e IA para desarrollar `PS`, `PI` y `E
 ## Ruta rápida sugerida
 
 1. Definir problema analítico y alcance.
-2. Estructurar entregables `E1–E5`.
-3. Validar con [Checklist E1–E5](checklist-entregables-e1-e5.md).
-4. Revisar [Rúbrica resumen EPE](rubrica-resumen-epe.md).
+2. Estructurar entregables `E1-E4 + EF`.
+3. Validar con [Checklist Artefactos E1-E4 + EF](checklist-entregables-e1-e4-ef.md).
+4. Revisar [Rúbrica EPE por niveles (N1-N3)](rubrica-resumen-epe.md).
 
 ## ¿Cuándo usar cada proceso?
 
@@ -19,13 +19,13 @@ Orientar al estudiante de Ciencia de Datos e IA para desarrollar `PS`, `PI` y `E
 - `PI`: integración de varios cursos en una solución analítica.
 - `EPE`: integración final de artefactos para demostrar perfil de egreso.
 
-## Entregables E1–E5 (enfoque datos e IA)
+## Entregables E1-E4 + EF (enfoque datos e IA)
 
 - `E1`: problema, datos disponibles, objetivo y alcance.
 - `E2`: diseño de enfoque analítico/modelado y plan experimental.
 - `E3`: implementación de pipeline/modelo inicial.
 - `E4`: validación, métricas y ajustes.
-- `E5`: integración final, hallazgos e impacto.
+- `EF`: integración final, hallazgos e impacto.
 
 ## Criterio mínimo de calidad
 

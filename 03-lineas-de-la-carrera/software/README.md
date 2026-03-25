@@ -16,3 +16,9 @@ Documentos relacionados:
 - `04-estandares-operativos/software/estandar-codificacion.md`
 - `04-estandares-operativos/software/politica-ramas-pr.md`
 - `05-plantillas-operativas/software/prompt-alumnos.md`
+
+Documentos rápidos de la línea:
+
+- [Guía PI / PS / EPE](guia-pi-ps-epe.md)
+- [Checklist Artefactos E1-E4 + EF](checklist-entregables-e1-e4-ef.md)
+- [Rúbrica EPE por niveles (N1-N3)](rubrica-resumen-epe.md)

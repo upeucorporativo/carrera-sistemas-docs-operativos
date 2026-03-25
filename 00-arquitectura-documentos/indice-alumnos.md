@@ -6,7 +6,7 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 
 ## Empieza aquí
 
-1. [Marco unificado CDIO (E1–E4 + Evaluación Final)](../02-procesos-operativos-transversales/marco-unificado-cdio-entregables-rubricas-plantillas.md)
+1. [Marco unificado CDIO (E1-E4 + Evaluación Final)](../02-procesos-operativos-transversales/marco-unificado-cdio-entregables-rubricas-plantillas.md)
 2. [Guía operativa PI/PS/EPE](../02-procesos-operativos-transversales/guia-pi-ps-epe.md)
 3. [Guía PI](../02-procesos-operativos-transversales/proyectos-integradores-pi/README.md)
 4. [Guía PS](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
@@ -14,28 +14,34 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 6. [Plantillas operativas](../05-plantillas-operativas/software/prompt-alumnos.md)
 7. [Estándares de trabajo (software)](../04-estandares-operativos/software/estandar-codificacion.md)
 8. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
-9. [Checklist E1–E5](../02-procesos-operativos-transversales/checklist-entregables-e1-e5.md)
-10. [Rúbrica resumen EPE](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
+9. [Checklist Artefactos E1-E4 + EF](../02-procesos-operativos-transversales/checklist-entregables-e1-e4-ef.md)
+10. [Rúbrica EPE por niveles (N1-N3)](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
 
 ## Acceso por línea (rápido)
+
+### Software
+
+- [Guía PI / PS / EPE](../03-lineas-de-la-carrera/software/guia-pi-ps-epe.md)
+- [Checklist Artefactos E1-E4 + EF](../03-lineas-de-la-carrera/software/checklist-entregables-e1-e4-ef.md)
+- [Rúbrica EPE por niveles (N1-N3)](../03-lineas-de-la-carrera/software/rubrica-resumen-epe.md)
 
 ### Infraestructura
 
 - [Guía PI / PS / EPE](../03-lineas-de-la-carrera/infraestructura/guia-pi-ps-epe.md)
-- [Checklist E1–E5](../03-lineas-de-la-carrera/infraestructura/checklist-entregables-e1-e5.md)
-- [Rúbrica resumen EPE](../03-lineas-de-la-carrera/infraestructura/rubrica-resumen-epe.md)
+- [Checklist Artefactos E1-E4 + EF](../03-lineas-de-la-carrera/infraestructura/checklist-entregables-e1-e4-ef.md)
+- [Rúbrica EPE por niveles (N1-N3)](../03-lineas-de-la-carrera/infraestructura/rubrica-resumen-epe.md)
 
 ### Gestión
 
 - [Guía PI / PS / EPE](../03-lineas-de-la-carrera/gestion/guia-pi-ps-epe.md)
-- [Checklist E1–E5](../03-lineas-de-la-carrera/gestion/checklist-entregables-e1-e5.md)
-- [Rúbrica resumen EPE](../03-lineas-de-la-carrera/gestion/rubrica-resumen-epe.md)
+- [Checklist Artefactos E1-E4 + EF](../03-lineas-de-la-carrera/gestion/checklist-entregables-e1-e4-ef.md)
+- [Rúbrica EPE por niveles (N1-N3)](../03-lineas-de-la-carrera/gestion/rubrica-resumen-epe.md)
 
 ### Ciencia de Datos e IA
 
 - [Guía PI / PS / EPE](../03-lineas-de-la-carrera/ciencia-datos-ia/guia-pi-ps-epe.md)
-- [Checklist E1–E5](../03-lineas-de-la-carrera/ciencia-datos-ia/checklist-entregables-e1-e5.md)
-- [Rúbrica resumen EPE](../03-lineas-de-la-carrera/ciencia-datos-ia/rubrica-resumen-epe.md)
+- [Checklist Artefactos E1-E4 + EF](../03-lineas-de-la-carrera/ciencia-datos-ia/checklist-entregables-e1-e4-ef.md)
+- [Rúbrica EPE por niveles (N1-N3)](../03-lineas-de-la-carrera/ciencia-datos-ia/rubrica-resumen-epe.md)
 
 ## Regla simple para no confundirse
 

@@ -9,9 +9,9 @@ Orientar al estudiante de Infraestructura para desarrollar `PS`, `PI` y `EPE` co
 ## Ruta rápida sugerida
 
 1. Definir problema y alcance técnico de infraestructura.
-2. Planificar entregables `E1–E5`.
-3. Ejecutar [Checklist E1–E5](checklist-entregables-e1-e5.md).
-4. Revisar [Rúbrica resumen EPE](rubrica-resumen-epe.md).
+2. Planificar entregables `E1-E4 + EF`.
+3. Ejecutar [Checklist Artefactos E1-E4 + EF](checklist-entregables-e1-e4-ef.md).
+4. Revisar [Rúbrica EPE por niveles (N1-N3)](rubrica-resumen-epe.md).
 
 ## ¿Cuándo usar cada proceso?
 
@@ -19,13 +19,13 @@ Orientar al estudiante de Infraestructura para desarrollar `PS`, `PI` y `EPE` co
 - `PI`: integración de varios cursos en una solución operativa.
 - `EPE`: integración final de artefactos para demostrar perfil de egreso.
 
-## Entregables E1–E5 (enfoque infraestructura)
+## Entregables E1-E4 + EF (enfoque infraestructura)
 
 - `E1`: problema operativo, contexto, alcance y requerimientos.
 - `E2`: diseño de arquitectura, topología y estrategia de despliegue.
 - `E3`: implementación base de infraestructura/servicios.
 - `E4`: validación (pruebas de funcionamiento, rendimiento, seguridad básica).
-- `E5`: integración final, operación y resultados.
+- `EF`: integración final, operación y resultados.
 
 ## Criterio mínimo de calidad
 
