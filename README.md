@@ -69,7 +69,8 @@ En `carrera-sistemas-docs-operativos` se publica contenido práctico y de uso di
 ### 04. Estándares operativos
 
 - [Política común de documentación](04-estandares-operativos/comunes/politica-documentacion.md)
-- [Estándar de codificación (software)](04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - general)](04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - microservicios)](04-estandares-operativos/software/estandar-codificacion-microservicios.md)
 - [Política de ramas y PR (software)](04-estandares-operativos/software/politica-ramas-pr.md)
 
 ### 05. Plantillas operativas
@@ -87,6 +88,7 @@ En `carrera-sistemas-docs-operativos` se publica contenido práctico y de uso di
 
 - [Índice de arquitectura documental](00-arquitectura-documentos/README.md)
 - [Mapa operativo](01-modelo-operativo/mapa-operativo.md)
-- [Estándar de codificación](04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - general)](04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - microservicios)](04-estandares-operativos/software/estandar-codificacion-microservicios.md)
 - [Política de ramas y PR](04-estandares-operativos/software/politica-ramas-pr.md)
 - [Prompt de alumnos](05-plantillas-operativas/software/prompt-alumnos.md)

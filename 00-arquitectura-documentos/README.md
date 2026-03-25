@@ -29,7 +29,8 @@ Este documento define la arquitectura de documentación de `carrera-sistemas-doc
 ### 04. Estándares operativos
 
 - [Política común de documentación](../04-estandares-operativos/comunes/politica-documentacion.md)
-- [Estándar de codificación (software)](../04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - general)](../04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - microservicios)](../04-estandares-operativos/software/estandar-codificacion-microservicios.md)
 - [Política de ramas y PR (software)](../04-estandares-operativos/software/politica-ramas-pr.md)
 
 ### 05. Plantillas operativas

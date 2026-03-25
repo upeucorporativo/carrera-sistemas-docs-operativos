@@ -13,7 +13,8 @@ Aquí se concentran:
 
 Documentos relacionados:
 
-- `04-estandares-operativos/software/estandar-codificacion.md`
+- `04-estandares-operativos/software/estandar-codificacion.md` (general)
+- `04-estandares-operativos/software/estandar-codificacion-microservicios.md` (microservicios)
 - `04-estandares-operativos/software/politica-ramas-pr.md`
 - `05-plantillas-operativas/software/prompt-alumnos.md`
 

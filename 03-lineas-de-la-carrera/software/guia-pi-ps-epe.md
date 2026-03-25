@@ -29,6 +29,7 @@ Orientar al estudiante de Software en el desarrollo de `PS`, `PI` y `EPE`, aline
 
 ## Referencias clave
 
-- [Estándar de codificación](../../04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - general)](../../04-estandares-operativos/software/estandar-codificacion.md)
+- [Estándar de codificación (software - microservicios)](../../04-estandares-operativos/software/estandar-codificacion-microservicios.md)
 - [Política de ramas y PR](../../04-estandares-operativos/software/politica-ramas-pr.md)
 - [Plantilla de trabajo para alumnos](../../05-plantillas-operativas/software/prompt-alumnos.md)

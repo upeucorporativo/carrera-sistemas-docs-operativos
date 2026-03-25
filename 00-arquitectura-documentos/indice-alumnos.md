@@ -12,10 +12,11 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 4. [Guía PS](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
 5. [Guía EPE](../02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md)
 6. [Plantillas operativas](../05-plantillas-operativas/software/prompt-alumnos.md)
-7. [Estándares de trabajo (software)](../04-estandares-operativos/software/estandar-codificacion.md)
-8. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
-9. [Checklist Artefactos E1-E4 + EF](../02-procesos-operativos-transversales/checklist-entregables-e1-e4-ef.md)
-10. [Rúbrica EPE por niveles (N1-N3)](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
+7. [Estándar de codificación (software - general)](../04-estandares-operativos/software/estandar-codificacion.md)
+8. [Estándar de codificación (software - microservicios)](../04-estandares-operativos/software/estandar-codificacion-microservicios.md)
+9. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
+10. [Checklist Artefactos E1-E4 + EF](../02-procesos-operativos-transversales/checklist-entregables-e1-e4-ef.md)
+11. [Rúbrica EPE por niveles (N1-N3)](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
 
 ## Acceso por línea (rápido)
 
