@@ -164,8 +164,17 @@ PS C:\ms1\ProyectosMS2026\services\catalogo> git push -u origin sesion/01-arquit
    - `Confirm squash and merge`.
 10. Resultado esperado:
    - `Pull request successfully merged and closed`.
-11. Paso opcional de limpieza:
-   - `Delete branch` en GitHub o borrado posterior por comando.
+
+11. Borrado obligatorio de la rama fuente (inmediato):
+   - Si GitHub ofrece el botón `Delete branch`, úsalo inmediatamente.
+   - Si no aparece, borra la rama manualmente con los comandos:
+
+```bash
+git branch -d sesion/01-arquitectura-base-ms
+git push origin --delete sesion/01-arquitectura-base-ms
+```
+
+Hazlo siempre después del merge por `Squash and merge` para evitar errores de historial.
 
 Comandos de cierre local usados después del merge:
 
