@@ -260,3 +260,38 @@ Plantilla breve de descripción de PR (copiar/pegar):
 
 - Preferir `Squash and merge` para dejar historial limpio.
 - Cerrar y eliminar la rama cuando el PR ya fue integrado.
+
+## Regla de oro con Squash and merge
+
+Cuando un PR se integra con `Squash and merge`, la rama fuente queda "huérfana" desde el punto de vista del historial.
+
+Regla obligatoria:
+
+1. Borrar la rama de trabajo ya mergeada.
+2. Actualizar la rama destino (normalmente `main` o `sesion/...`).
+3. Crear una rama nueva para la siguiente tarea.
+
+Comandos de referencia (ejemplo real con rama de sesión):
+
+```bash
+# 1) Borrar rama vieja
+git branch -d sesion/01-arquitectura-base-ms
+git push origin --delete sesion/01-arquitectura-base-ms
+
+# 2) Actualizar rama destino y crear nueva rama
+git fetch origin
+git checkout sesion/01-arquitectura-base-ms
+git pull
+git checkout -b tarea/02-siguiente-tarea
+```
+
+Variación equivalente para rama de trabajo `tarea/...`:
+
+```bash
+git branch -d tarea/01-ms-producto
+git push origin --delete tarea/01-ms-producto
+```
+
+Nota:
+
+- No continuar desarrollando sobre la misma rama que ya fue mergeada por squash.

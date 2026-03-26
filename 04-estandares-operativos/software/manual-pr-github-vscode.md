@@ -84,6 +84,37 @@ Descripción sugerida (copiar/pegar):
 - Cuando esté aprobado y sin conflictos, usar `Squash and merge`.
 - Eliminar rama remota al finalizar.
 
+### 7) Post-merge obligatorio con Squash
+
+Regla de oro:
+
+- Con `Squash and merge`, la rama fuente queda "huérfana" respecto al historial.
+- No se debe seguir trabajando en esa misma rama.
+- Se debe borrar y crear una rama nueva desde la rama destino actualizada.
+
+Comandos de referencia (ejemplo real aplicado):
+
+```bash
+# 1) Borrar rama vieja
+git branch -d sesion/01-arquitectura-base-ms
+git push origin --delete sesion/01-arquitectura-base-ms
+
+# 2) Actualizar rama destino y crear nueva rama
+git fetch origin
+git checkout sesion/01-arquitectura-base-ms
+git pull
+git checkout -b tarea/02-siguiente-tarea
+```
+
+Variación equivalente para ramas `tarea/...`:
+
+```bash
+git branch -d tarea/01-ms-producto
+git push origin --delete tarea/01-ms-producto
+```
+
+Adaptar nombres de ramas según la sesión/proyecto.
+
 ### Ejemplo concreto (caso real sesión 01)
 
 Escenario aplicado:
@@ -288,6 +319,13 @@ El PR se actualiza automáticamente.
 - [ ] Pruebas mínimas ejecutadas.
 - [ ] Sin conflictos pendientes.
 - [ ] Estrategia seleccionada: `Squash and merge`.
+
+## Checklist rápido después de hacer merge (si fue Squash)
+
+- [ ] Rama vieja borrada en local (`git branch -d <rama>`).
+- [ ] Rama vieja borrada en remoto (`git push origin --delete <rama>`).
+- [ ] Rama destino actualizada (`git fetch` + `git checkout <destino>` + `git pull`).
+- [ ] Nueva rama creada para la siguiente tarea (`git checkout -b <rama-nueva>`).
 
 ---
 
