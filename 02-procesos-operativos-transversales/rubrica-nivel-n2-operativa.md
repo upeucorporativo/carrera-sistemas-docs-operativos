@@ -16,16 +16,12 @@ En N2 se espera integración funcional entre análisis, diseño e implementació
 
 Con base en la matriz del `Doc 05` para progresión por niveles:
 
-- **E1 (Conceive) - Nivel 2**
-  - requerimientos refinados y mayor consistencia de alcance
-- **E2 (Design) - Nivel 2**
-  - diseño técnico funcional
-  - artefactos guía: arquitectura, modelado `UML`, modelo de datos
-- **E3 (Implement) - Nivel 2**
-  - solución funcional integrando componentes clave
-  - artefactos guía: desarrollo de aplicaciones, SQL y prácticas de integración
-- **E5 (Transversal) - Nivel 2**
-  - sustentación técnica intermedia y comunicación del valor funcional
+| CDIO / Eje | Entregable | Nivel | Evidencia esperada |
+|---|---|---|---|
+| Conceive | E1 | N2 | Requerimientos refinados con mayor consistencia de alcance. |
+| Design | E2 | N2 | Diseño técnico funcional (arquitectura, modelado `UML`, modelo de datos). |
+| Implement | E3 | N2 | Solución funcional integrando componentes clave (desarrollo, SQL e integración). |
+| Transversal | E5 | N2 | Sustentación técnica intermedia y comunicación del valor funcional. |
 
 ## Criterios mínimos de aceptación (operativos)
 

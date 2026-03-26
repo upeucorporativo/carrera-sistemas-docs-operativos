@@ -20,15 +20,11 @@ En N1 se espera evidencia inicial de construcción técnica con acompañamiento,
 
 Con base en la matriz del `Doc 05` para progresión por niveles:
 
-- **E1 (Conceive) - Nivel 1**
-  - evidencia inicial de requerimientos y entendimiento del problema
-  - artefactos guía: `SRS` inicial y prototipos base
-- **E3 (Implement) - Nivel 1**
-  - evidencia de construcción inicial funcional
-  - artefactos guía: implementación base (por ejemplo, aplicaciones iniciales)
-- **E5 (Transversal) - Nivel 1**
-  - evidencia de comunicación y organización inicial del trabajo
-  - artefactos guía: backlog/sprints iniciales y sustentación breve
+| CDIO / Eje | Entregable | Nivel | Evidencia esperada |
+|---|---|---|---|
+| Conceive | E1 | N1 | Evidencia inicial de requerimientos y entendimiento del problema (`SRS` inicial, prototipos base). |
+| Implement | E3 | N1 | Evidencia de construcción inicial funcional (implementación base). |
+| Transversal | E5 | N1 | Evidencia de organización/comunicación inicial del trabajo (backlog, sprints iniciales, sustentación breve). |
 
 ## Criterios mínimos de aceptación (operativos)
 

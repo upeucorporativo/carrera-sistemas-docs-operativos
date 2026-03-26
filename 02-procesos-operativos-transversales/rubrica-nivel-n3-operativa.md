@@ -16,16 +16,13 @@ En N3 se evalúa cierre integral: solución completa, integración de artefactos
 
 Con base en la matriz del `Doc 05` para progresión por niveles:
 
-- **E1 (Conceive) - Nivel 3**
-  - requerimientos validados y trazables
-- **E2 (Design) - Nivel 3**
-  - diseño completo y consistente
-- **E3 (Implement) - Nivel 3**
-  - sistema integrado, desplegable y verificable
-- **E4 (Operate) - Nivel 3**
-  - operación, auditoría/calidad y plan de evolución
-- **E5 (Transversal) - Nivel 3**
-  - sustentación y comunicación final del valor (incluye pitch)
+| CDIO / Eje | Entregable | Nivel | Evidencia esperada |
+|---|---|---|---|
+| Conceive | E1 | N3 | Requerimientos validados y trazables. |
+| Design | E2 | N3 | Diseño completo y consistente. |
+| Implement | E3 | N3 | Sistema integrado, desplegable y verificable. |
+| Operate | E4 | N3 | Operación, auditoría/calidad y plan de evolución. |
+| Transversal | E5 | N3 | Sustentación y comunicación final del valor (incluye pitch). |
 
 ## Criterios mínimos de aceptación (operativos)
 
