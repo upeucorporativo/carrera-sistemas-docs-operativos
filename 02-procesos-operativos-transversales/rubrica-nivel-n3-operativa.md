@@ -24,6 +24,15 @@ Con base en la matriz del `Doc 05` para progresión por niveles:
 | Operate | E4 | N3 | Operación, auditoría/calidad y plan de evolución. |
 | Transversal | E5 | N3 | Sustentación y comunicación final del valor (incluye pitch). |
 
+## Tabla de rúbrica N3 — Entregable E1 (Requerimientos y prototipo)
+
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+|---|---|---|---|---|
+| Problema | Problema completamente definido y justificado. | Definición adecuada. | Definición parcial. | Incorrecta. |
+| Requerimientos | `SRS` completo, consistente y validado. | `SRS` adecuado. | `SRS` parcial. | Inconsistente. |
+| Prototipos | Prototipos fieles al sistema final. | Representación adecuada. | Representación parcial. | Incorrecta. |
+| Validación | Validación formal con evidencia. | Validación adecuada. | Validación limitada. | Sin validación. |
+
 ## Criterios mínimos de aceptación (operativos)
 
 - integración completa de artefactos `E1-E5`

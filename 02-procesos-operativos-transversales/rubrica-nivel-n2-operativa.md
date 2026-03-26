@@ -23,6 +23,15 @@ Con base en la matriz del `Doc 05` para progresión por niveles:
 | Implement | E3 | N2 | Solución funcional integrando componentes clave (desarrollo, SQL e integración). |
 | Transversal | E5 | N2 | Sustentación técnica intermedia y comunicación del valor funcional. |
 
+## Tabla de rúbrica N2 (referencial)
+
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+|---|---|---|---|---|
+| Requerimientos (E1) | Requerimientos refinados, trazables y coherentes con el alcance. | Requerimientos suficientes con trazabilidad parcial. | Requerimientos incompletos y con inconsistencias. | Requerimientos no verificables. |
+| Diseño (E2) | Diseño técnico completo y consistente (arquitectura, UML, datos). | Diseño adecuado con vacíos menores. | Diseño parcial o con inconsistencias relevantes. | Diseño incorrecto o ausente. |
+| Implementación (E3) | Solución funcional integrada, estable y demostrable. | Solución funcional con fallas menores. | Solución parcialmente funcional. | Solución no funcional. |
+| Evidencia y sustentación (E5) | Evidencia completa y sustentación técnica clara del valor. | Evidencia suficiente y sustentación aceptable. | Evidencia limitada y sustentación parcial. | Sin evidencia sólida ni sustentación técnica. |
+
 ## Criterios mínimos de aceptación (operativos)
 
 - coherencia entre `E1`, `E2` y `E3`
