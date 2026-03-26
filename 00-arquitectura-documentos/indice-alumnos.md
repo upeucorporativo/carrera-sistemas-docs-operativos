@@ -18,6 +18,9 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 10. [Manual de Pull Request (GitHub Web y VS Code)](../04-estandares-operativos/software/manual-pr-github-vscode.md)
 11. [Checklist Artefactos E1-E4 + EF](../02-procesos-operativos-transversales/checklist-entregables-e1-e4-ef.md)
 12. [Rúbrica EPE por niveles (N1-N3)](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
+13. [Rúbrica operativa N1 (detalle)](../02-procesos-operativos-transversales/rubrica-nivel-n1-operativa.md)
+14. [Rúbrica operativa N2 (detalle)](../02-procesos-operativos-transversales/rubrica-nivel-n2-operativa.md)
+15. [Rúbrica operativa N3 (detalle)](../02-procesos-operativos-transversales/rubrica-nivel-n3-operativa.md)
 
 ## Acceso por línea (rápido)
 

@@ -18,6 +18,9 @@ Este documento define la arquitectura de documentación de `carrera-sistemas-doc
 - [Proyectos sello (PS)](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md)
 - [Proyectos integradores (PI)](../02-procesos-operativos-transversales/proyectos-integradores-pi/README.md)
 - [Evaluación perfil de egreso (EPE)](../02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md)
+- [Rúbrica operativa N1 (detalle)](../02-procesos-operativos-transversales/rubrica-nivel-n1-operativa.md)
+- [Rúbrica operativa N2 (detalle)](../02-procesos-operativos-transversales/rubrica-nivel-n2-operativa.md)
+- [Rúbrica operativa N3 (detalle)](../02-procesos-operativos-transversales/rubrica-nivel-n3-operativa.md)
 
 ### 03. Líneas de la carrera
 
