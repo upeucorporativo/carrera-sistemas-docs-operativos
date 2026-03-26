@@ -94,17 +94,46 @@ Escenario aplicado:
 
 Paso a paso ejecutado:
 
-1. Crear PR con `base: main` y `compare: sesion/01-arquitectura-base-ms`.
-2. Completar descripción de PR con objetivo, cambios, evidencia e impacto BD.
-3. Verificar estado: `No conflicts with base branch`.
-4. Abrir menú de merge y elegir:
+1. Clonar el repositorio y entrar al proyecto:
+
+```powershell
+PS C:\ms1\ProyectosMS2026\services> git clone https://github.com/261dist/catalogo.git
+PS C:\ms1\ProyectosMS2026\services> cd .\catalogo\
+PS C:\ms1\ProyectosMS2026\services\catalogo> code .
+```
+
+2. Verificar rama base y crear rama de sesión:
+
+```powershell
+PS C:\ms1\ProyectosMS2026\services\catalogo> git branch
+* main
+PS C:\ms1\ProyectosMS2026\services\catalogo> git checkout -b sesion/01-arquitectura-base-ms
+PS C:\ms1\ProyectosMS2026\services\catalogo> git branch
+  main
+* sesion/01-arquitectura-base-ms
+```
+
+3. Realizar el trabajo en la rama `sesion/01-arquitectura-base-ms`.
+
+4. Preparar commit y subir la rama:
+
+```powershell
+PS C:\ms1\ProyectosMS2026\services\catalogo> git add .
+PS C:\ms1\ProyectosMS2026\services\catalogo> git commit -m "feat: arquitectura base microservicio catalogo"
+PS C:\ms1\ProyectosMS2026\services\catalogo> git push -u origin sesion/01-arquitectura-base-ms
+```
+
+5. Crear PR con `base: main` y `compare: sesion/01-arquitectura-base-ms`.
+6. Completar descripción de PR con objetivo, cambios, evidencia e impacto BD.
+7. Verificar estado: `No conflicts with base branch`.
+8. Abrir menú de merge y elegir:
    - `Squash and merge` (inglés), o
    - `Aplastar y fusionar` (español).
-5. Confirmar en la pantalla final:
+9. Confirmar en la pantalla final:
    - `Confirm squash and merge`.
-6. Resultado esperado:
+10. Resultado esperado:
    - `Pull request successfully merged and closed`.
-7. Paso opcional de limpieza:
+11. Paso opcional de limpieza:
    - `Delete branch` en GitHub o borrado posterior por comando.
 
 Comandos de cierre local usados después del merge:
@@ -140,6 +169,10 @@ Bloque para evidencia de captura (agregar imagen cuando esté disponible en el r
 Captura sugerida: resultado final del tag creado
 Vista esperada: lista de tags mostrando `vs01-arquitectura-base-ms-final`
 ```
+
+Referencia complementaria externa:
+
+- Documento de apoyo con comandos y capturas: https://docs.google.com/document/d/1ARddsiI2b8iX2T2AldTN3n_SLq0aYjbDHAxkU_JSNGQ/edit?usp=sharing
 
 ---
 
