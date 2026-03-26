@@ -54,11 +54,12 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 
 Este mapa permite extraer/resumir contenido oficial en formato práctico para alumnos sin mezclar repositorios.
 
-- `Doc 01 Diseño Curricular` → resumen operativo en guías de línea y contexto de competencias.
-- `Doc 03 Manual de Líneas` → guías por línea en `03-lineas-de-la-carrera`.
-- `Doc 04 Manual de Guías Académicas` → guías PI/PS/EPE en `02-procesos-operativos-transversales`.
-- `Doc 05 Manual de Evaluación` → criterios y rúbricas resumidas en guías operativas.
-- `Doc 06 Plantillas de Entregables` → plantillas reutilizables en `05-plantillas-operativas`.
+- `Doc 01 Diseño Curricular` → referencias operativas en [Software](../03-lineas-de-la-carrera/software/README.md), [Infraestructura](../03-lineas-de-la-carrera/infraestructura/README.md), [Gestión](../03-lineas-de-la-carrera/gestion/README.md) y [Ciencia de datos e IA](../03-lineas-de-la-carrera/ciencia-datos-ia/README.md).
+- `Doc 02` → sin equivalencia operativa directa documentada en este repositorio; si se usa, debe referenciarse desde el repositorio oficial.
+- `Doc 03 Manual de Líneas` → acceso operativo por línea en [Software](../03-lineas-de-la-carrera/software/README.md), [Infraestructura](../03-lineas-de-la-carrera/infraestructura/README.md), [Gestión](../03-lineas-de-la-carrera/gestion/README.md) y [Ciencia de datos e IA](../03-lineas-de-la-carrera/ciencia-datos-ia/README.md).
+- `Doc 04 Manual de Guías Académicas` → guía transversal en [Guía operativa PI/PS/EPE](../02-procesos-operativos-transversales/guia-pi-ps-epe.md), [Guía PI](../02-procesos-operativos-transversales/proyectos-integradores-pi/README.md), [Guía PS](../02-procesos-operativos-transversales/proyectos-sello-ps/README.md) y [Guía EPE](../02-procesos-operativos-transversales/evaluacion-perfil-egreso-epe/README.md).
+- `Doc 05 Manual de Evaluación` → síntesis operativa en [Rúbrica EPE por niveles (N1-N3)](../02-procesos-operativos-transversales/rubrica-resumen-epe.md) y [Checklist Artefactos E1-E4 + EF](../02-procesos-operativos-transversales/checklist-entregables-e1-e4-ef.md).
+- `Doc 06 Plantillas de Entregables` → reutilización operativa en [Prompt de alumnos (software)](../05-plantillas-operativas/software/prompt-alumnos.md).
 
 ## Convención de nombres recomendada (repo operativa)
 
