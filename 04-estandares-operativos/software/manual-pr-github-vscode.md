@@ -215,6 +215,12 @@ En Source Control:
 
 ## Conflictos: cómo resolverlos
 
+Nota importante:
+
+- La extensión `GitHub Pull Requests and Issues` sirve para crear, revisar y gestionar PR.
+- No cumple el mismo rol que una herramienta visual especializada de merge como `P4Merge`.
+- En VS Code, el equivalente más cercano a un resolvedor visual es el editor de merge integrado (`Merge Editor`).
+
 ## Opción 1: Resolver en GitHub Web
 
 Cuando GitHub muestra `This branch has conflicts that must be resolved`:
@@ -241,6 +247,36 @@ git push origin <tu-rama>
 ```
 
 El PR se actualiza automáticamente.
+
+### Material complementario recomendado
+
+- GitHub Docs: resolver conflictos directamente en GitHub Web
+   - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
+- GitHub Docs: resolver conflictos por línea de comandos
+   - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
+- VS Code Docs: control de código fuente y resolución de conflictos con Merge Editor
+   - https://code.visualstudio.com/docs/sourcecontrol/merge-conflicts
+- VS Code Docs: trabajar con GitHub Pull Requests and Issues
+   - https://code.visualstudio.com/docs/sourcecontrol/github
+
+### Qué herramienta usar según el caso
+
+- `GitHub Web`:
+   - cuando el conflicto es simple
+   - cuando solo necesitas resolver pocas líneas
+   - cuando no estás en tu equipo local
+- `VS Code Merge Editor`:
+   - cuando quieres resolución visual dentro del editor
+   - cuando el conflicto afecta varios archivos de texto
+   - cuando necesitas revisar cambios con más contexto
+- `Terminal Git`:
+   - cuando GitHub no permite resolver el conflicto en la web
+   - cuando necesitas control fino del flujo Git
+   - cuando trabajas en repositorios con políticas o validaciones más estrictas
+- `P4Merge` u otra herramienta externa:
+   - cuando prefieres una interfaz visual especializada de comparación
+   - cuando ya tienes una herramienta de merge adoptada por el equipo
+   - cuando el conflicto es grande y quieres una vista dedicada fuera del editor
 
 ---
 
