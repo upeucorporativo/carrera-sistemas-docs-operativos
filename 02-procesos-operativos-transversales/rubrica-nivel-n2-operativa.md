@@ -23,14 +23,44 @@ Con base en la matriz del `Doc 05` para progresión por niveles:
 | Implement | E3 | N2 | Solución funcional integrando componentes clave (desarrollo, SQL e integración). |
 | Transversal | E5 | N2 | Sustentación técnica intermedia y comunicación del valor funcional. |
 
-## Tabla de rúbrica N2 (referencial)
+## Tablas de rúbrica N2 por entregable (referencial)
+
+### E1 — Requerimientos y prototipo (aplica en N2)
 
 | Criterio | Excelente | Bueno | Regular | Deficiente |
 |---|---|---|---|---|
-| Requerimientos (E1) | Requerimientos refinados, trazables y coherentes con el alcance. | Requerimientos suficientes con trazabilidad parcial. | Requerimientos incompletos y con inconsistencias. | Requerimientos no verificables. |
-| Diseño (E2) | Diseño técnico completo y consistente (arquitectura, UML, datos). | Diseño adecuado con vacíos menores. | Diseño parcial o con inconsistencias relevantes. | Diseño incorrecto o ausente. |
-| Implementación (E3) | Solución funcional integrada, estable y demostrable. | Solución funcional con fallas menores. | Solución parcialmente funcional. | Solución no funcional. |
-| Evidencia y sustentación (E5) | Evidencia completa y sustentación técnica clara del valor. | Evidencia suficiente y sustentación aceptable. | Evidencia limitada y sustentación parcial. | Sin evidencia sólida ni sustentación técnica. |
+| Problema y alcance | Problema y alcance refinados, trazables y coherentes. | Definición adecuada con ajustes menores. | Definición parcial. | Definición incorrecta. |
+| Requerimientos | Requerimientos refinados con trazabilidad adecuada. | Requerimientos suficientes. | Requerimientos incompletos. | Requerimientos no verificables. |
+| Validación | Validación suficiente con evidencia. | Validación adecuada. | Validación limitada. | Sin validación. |
+
+### E2 — Diseño (aplica en N2)
+
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+|---|---|---|---|---|
+| Arquitectura y modelado | Diseño técnico completo y consistente (arquitectura, UML, datos). | Diseño adecuado con vacíos menores. | Diseño parcial o inconsistente. | Diseño incorrecto o ausente. |
+| Coherencia con E1 | Diseño totalmente alineado con requerimientos. | Alineación adecuada. | Alineación parcial. | Sin coherencia con E1. |
+| Calidad del diseño | Diseño verificable y listo para implementación. | Diseño usable con ajustes menores. | Diseño con brechas relevantes. | Diseño no utilizable. |
+
+### E3 — Desarrollo e implementación (aplica en N2)
+
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+|---|---|---|---|---|
+| Funcionalidad | Solución funcional integrada y demostrable. | Solución funcional con fallas menores. | Solución parcialmente funcional. | Solución no funcional. |
+| Integración técnica | Integración adecuada de componentes y servicios. | Integración suficiente. | Integración limitada. | Sin integración verificable. |
+| Evidencia de ejecución | Evidencia técnica clara (pruebas/logs/demo). | Evidencia suficiente. | Evidencia limitada. | Sin evidencia verificable. |
+
+### E4 — Operación y evolución (no aplica en N2)
+
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+|---|---|---|---|---|
+| Aplicación del entregable en N2 | No aplica en este nivel según progresión base del Doc 05. | No aplica. | No aplica. | No aplica. |
+
+### E5 — Sustentación y pitch (aplica en N2)
+
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+|---|---|---|---|---|
+| Sustentación técnica | Sustentación clara de decisiones, resultados y valor funcional. | Sustentación adecuada. | Sustentación parcial. | Sustentación insuficiente. |
+| Comunicación | Comunicación ordenada y orientada a resultados. | Comunicación aceptable. | Comunicación limitada. | Comunicación deficiente. |
 
 ## Criterios mínimos de aceptación (operativos)
 
