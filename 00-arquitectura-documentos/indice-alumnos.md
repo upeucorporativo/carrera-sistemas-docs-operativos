@@ -15,8 +15,9 @@ Este índice concentra dónde debe buscar un estudiante dentro de `carrera-siste
 7. [Estándar de codificación (software - general)](../04-estandares-operativos/software/estandar-codificacion.md)
 8. [Estándar de codificación (software - microservicios)](../04-estandares-operativos/software/estandar-codificacion-microservicios.md)
 9. [Política de ramas y PR](../04-estandares-operativos/software/politica-ramas-pr.md)
-10. [Checklist Artefactos E1-E4 + EF](../02-procesos-operativos-transversales/checklist-entregables-e1-e4-ef.md)
-11. [Rúbrica EPE por niveles (N1-N3)](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
+10. [Manual de Pull Request (GitHub Web y VS Code)](../04-estandares-operativos/software/manual-pr-github-vscode.md)
+11. [Checklist Artefactos E1-E4 + EF](../02-procesos-operativos-transversales/checklist-entregables-e1-e4-ef.md)
+12. [Rúbrica EPE por niveles (N1-N3)](../02-procesos-operativos-transversales/rubrica-resumen-epe.md)
 
 ## Acceso por línea (rápido)
 

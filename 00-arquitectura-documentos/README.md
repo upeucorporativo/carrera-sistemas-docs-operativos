@@ -32,6 +32,7 @@ Este documento define la arquitectura de documentación de `carrera-sistemas-doc
 - [Estándar de codificación (software - general)](../04-estandares-operativos/software/estandar-codificacion.md)
 - [Estándar de codificación (software - microservicios)](../04-estandares-operativos/software/estandar-codificacion-microservicios.md)
 - [Política de ramas y PR (software)](../04-estandares-operativos/software/politica-ramas-pr.md)
+- [Manual de Pull Request (GitHub Web y VS Code)](../04-estandares-operativos/software/manual-pr-github-vscode.md)
 
 ### 05. Plantillas operativas
 

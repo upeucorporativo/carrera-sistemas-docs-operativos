@@ -25,6 +25,7 @@ Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sust
 - **Calidad técnica:** solución consistente, verificable y bien documentada.
 - **Sustentación:** explica decisiones y resultados con claridad.
 - **Impacto/valor:** demuestra aporte real al problema planteado.
+- **Participación activa del equipo:** evidencia contribución individual verificable.
 
 ## Niveles de logro (N1-N3)
 
@@ -62,3 +63,23 @@ Resumir criterios de evaluación EPE en lenguaje operativo para preparar la sust
 - Ejecutar [Checklist Artefactos E1-E4 + EF](checklist-entregables-e1-e4-ef.md).
 - Preparar una narrativa única: problema → solución → artefacto → resultado.
 - Validar que cada artefacto tenga respaldo (documento, código, demo o registro).
+
+## Evidencia de participación activa (equipo)
+
+Para trabajos colaborativos, cada integrante debe evidenciar participación individual en repositorios y PR.
+
+Evidencia mínima sugerida por integrante:
+
+- 1 PR propio mergeado.
+- 1 revisión o comentario técnico en PR de otra persona.
+- 1 evidencia técnica en su PR (captura, log o prueba).
+
+Fuentes de verificación recomendadas:
+
+- PR por autor: filtro `author:<usuario>`.
+- Revisiones por autor: filtro `reviewed-by:<usuario>`.
+- Comentarios por autor: filtro `commenter:<usuario>`.
+
+Referencia operativa:
+
+- [Manual de Pull Request (GitHub Web y VS Code)](../04-estandares-operativos/software/manual-pr-github-vscode.md)

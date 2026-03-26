@@ -16,6 +16,7 @@ Documentos relacionados:
 - `04-estandares-operativos/software/estandar-codificacion.md` (general)
 - `04-estandares-operativos/software/estandar-codificacion-microservicios.md` (microservicios)
 - `04-estandares-operativos/software/politica-ramas-pr.md`
+- `04-estandares-operativos/software/manual-pr-github-vscode.md`
 - `05-plantillas-operativas/software/prompt-alumnos.md`
 
 Documentos rápidos de la línea:

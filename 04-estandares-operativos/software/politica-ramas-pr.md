@@ -6,6 +6,10 @@
 
 Establecer una forma simple y consistente de trabajar cambios en repositorios de la línea de software.
 
+Manual de apoyo:
+
+- [Manual de Pull Request (GitHub Web y VS Code)](manual-pr-github-vscode.md)
+
 ## Rama principal
 
 - La rama estable del repositorio es `main`.
